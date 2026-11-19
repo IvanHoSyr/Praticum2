@@ -1,0 +1,19 @@
+---
+title: "practicum2"
+author: Ivan Ho
+format: 
+  pdf: default
+editor: visual
+---
+
+#1Include the map of New York counties and color-coded high points, with the highest point labeled. Which are the highest and lowest high points, and what are their elevations?
+
+The highest point is Mount Marcy that is located in Essex County. The lowest point is Battle Hill that is located in Kings County.
+
+![New York High Point](image/ny_high_point.jpeg)
+
+#2Include the map of county population by county. What are the most and least populous counties, by name?
+
+![New York's population](image/ny_pop.jpeg)
+
+#3Include the map of county population density. What are the most and least densely populated counties, by name? ![New York's density](image/ny_den.jpeg)
